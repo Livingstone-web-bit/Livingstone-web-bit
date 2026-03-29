@@ -1,4 +1,7 @@
-## Hi there 👋
+I am a dedicated tech enthusiast currently building my skills in web development and software engineering. I enjoy turning ideas into functional and visually appealing digital experiences.
+🌱 Currently learning: HTML, CSS, and modern web development
+💡 Interested in: Frontend Development, UI/UX Design
+🎯 Goal: To become a professional software developer## Hi there 👋
 
 <!--
 **Livingstone-web-bit/Livingstone-web-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
